@@ -11,7 +11,18 @@
 - `classifierResults/` — Saved evaluation results (confusion matrix, ROC curve, etc.)
 
 ---
-
+## Citation
+```bash
+@article{adibfar2025precipnet,
+  title     = {PrecipNet: A transformer-based downscaling framework for improved precipitation prediction in San Diego County},
+  author    = {AmirHossein Adibfar and Hassan Davani},
+  journal   = {Journal of Hydrology: Regional Studies},
+  volume    = {62},
+  pages     = {102738},
+  year      = {2025},
+  month     = {dec}
+}
+```
 ## Setup
 
 ```bash
