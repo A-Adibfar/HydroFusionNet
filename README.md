@@ -1,6 +1,6 @@
 # HydroFusionNet - Precipitation Classifier
 
-"HydroFusionNet is a multi-stream self-attention fusion network designed for precipitation classification. It separately processes spatial/temporal feature sets, fuses them via adaptive attention, integrates physics-informed differential features, and embeds seasonal patterns using cyclic temporal encodings, achieving robust performance on noisy meteorological data.
+HydroFusionNet (https://doi.org/10.1016/j.ejrh.2025.102738) is a multi-stream self-attention fusion network designed for precipitation classification. It separately processes spatial/temporal feature sets, fuses them via adaptive attention, integrates physics-informed differential features, and embeds seasonal patterns using cyclic temporal encodings, achieving robust performance on noisy meteorological data.
 
 ## Structure
 
